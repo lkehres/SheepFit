@@ -1,0 +1,32 @@
+/* Application-wide Styles */
+
+h1 {
+    color: #888888;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-seri; 
+    font-size: 300%;
+}
+
+h2, 
+h3 {
+    color: #444;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+body {
+    margin: 2em;
+}
+
+body,
+input[text],
+button {
+    color: #447844;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* everywhere else */
+
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
